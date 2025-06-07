@@ -92,3 +92,10 @@ This narrative helps transform raw data into actionable knowledge, making the an
 
 - 🛠️ Ensure **Jupyter Notebook** is properly installed to view and run the notebook.
 - 🧼 The dataset is **clean** and ready for basic analysis without preprocessing.
+----
+
+📬 Contact
+Akshat Raj
+📍 Greater Noida, UP
+📧 akshatraj873@gmail.com
+🔗 LinkedIn | GitHub
